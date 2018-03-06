@@ -3,5 +3,6 @@
    "INSTALL_MSG" : "Youtube Stream Tracker Loaded",
    "NAME"        : "YoutubeStream",
    "SHORT"       : "YoutubeStream",
-   "DESCRIPTION" : "YoutubeStream"
+   "DESCRIPTION" : "YoutubeStream",
+   "HIDDEN" : false
 }
