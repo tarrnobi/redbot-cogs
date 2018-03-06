@@ -7,7 +7,7 @@ class YoutubeStream:
     def __init__(self, bot):
         self.bot = bot
 
-    @commands.command()
+    @commands.command(name="yt-stream")
     async def mycom(self):
         """This does stuff!"""
 
