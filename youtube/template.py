@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-class Mycog:
+class YoutubeStream:
     """My custom cog that does stuff!"""
 
     def __init__(self, bot):
