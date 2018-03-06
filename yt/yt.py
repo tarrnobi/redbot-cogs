@@ -1,14 +1,14 @@
 import discord
 from discord.ext import commands
 
-class YoutubeStream:
+class YT:
     """My custom cog that does stuff!"""
 
     def __init__(self, bot):
         self.bot = bot
 
-    @commands.command(name="yt-stream")
-    async def mycom(self):
+    @commands.command(name="yt")
+    async def yt(self):
         """This does stuff!"""
 
         #Your code will go here
